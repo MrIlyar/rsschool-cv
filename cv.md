@@ -1,25 +1,26 @@
-#CV Ilyar A.
+#CV Ilyar A
 
-##Contacts
+##**Contacts**
 
 **GitHub:** [@MrIlyar](https://github.com/MrIlyar)
 
-##Summary
+##**Summary**
 
+My main goal to apply for this course to improve my skill.
 
-##Skills
+##**Skills**
 
 - HTML
 - CSS
 - JavaScript
 - Git
 
-##Experience
+##**Experience**
 
-##Courses
+##**Courses**
 - Coursera "Algorithms, Part I" (in progress)
 - RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
 
-##Languages
+##**Languages**
 
 - English B1

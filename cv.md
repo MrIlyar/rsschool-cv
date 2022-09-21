@@ -6,7 +6,7 @@
 
 ### **Summary**
 
-My main goal to apply for this course to improve my skills.
+My main goal to apply for this course is to improve my skills.
 
 ### **Skills**
 
